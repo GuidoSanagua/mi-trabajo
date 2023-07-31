@@ -1,0 +1,83 @@
+.main-productos {
+    background-color: #c920ad;
+    text-transform: uppercase; }
+  
+  .destacados {
+    background-color: #c920ad;
+    border: 2px solid black;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 500px;
+    list-style: none;
+    color: WHITE;
+    font-family: 'Times New Roman', Times, serif; }
+  
+  .destacados img {
+    background-color: #0f0b0a;
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+  
+  .main-productos {
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif; }
+  
+  .producto-1 {
+    background-color: #c920ad;
+    color: white;
+    border-bottom: 1px solid;
+    justify-content: center;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+  
+  .producto-2 {
+    background-color: #c920ad;
+    color: white;
+    border-bottom: 1px solid;
+    justify-content: center;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+  
+  .producto-3 {
+    background-color: #c920ad;
+    color: white;
+    border-bottom: 1px solid;
+    justify-content: center;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+  
+  .producto-4 {
+    background-color: #c920ad;
+    color: white;
+    border-bottom: 1px solid;
+    justify-content: center;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+  
+  .producto-5 {
+    background-color: #c920ad;
+    color: white;
+    border-bottom: 1px solid;
+    justify-content: center;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center; }

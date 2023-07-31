@@ -1,0 +1,31 @@
+form {
+    background-color: #c920ad;
+    width: 100%;
+    height: 100vh;
+    margin: 0px; }
+  
+  form input {
+    width: 100%;
+    padding: 30px;
+    font-size: 25px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 4px solid black; }
+  
+  .contacto {
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    text-transform: uppercase; }
+  
+  form textarea {
+    width: 100%;
+    font-size: 25px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 4px solid black; }
+  
+  form #enviar {
+    background-color: gray;
+    font-size: 25px;
+    padding: 0px; }

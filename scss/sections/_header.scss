@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    height: 110px;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color: #6508a3;
+    font-family: fantasy;
+    padding: 10px;
+    box-shadow: 0px 5px 5px #6b6666; }
+  
+  .header__ul {
+    display: flex;
+    padding: 50px;
+    margin: 50px;
+    text-decoration: none; }
+  
+  .logo {
+    display: flex;
+    align-items: center; }
+  
+  .header__img {
+    height: 110px;
+    margin-right: 10px; }
+  
+  .header a {
+    text-decoration: none;
+    color: black; }
+  
+  .header nav a:hover {
+    color: red; }
+    
